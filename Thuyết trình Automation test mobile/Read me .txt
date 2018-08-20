@@ -1,0 +1,3 @@
+Test script viết ra đoạn code để test 1 dự liệu nào đó 
+Appium data driven là tạo 1 bộ dữ liệu thực thi tự động chức năng nào đó 
+Appium Record PlayBack giúp ta tìm các id control và làm = tay nó tự sinh code 
